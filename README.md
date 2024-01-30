@@ -3,3 +3,8 @@ This version of OTT is based upon the Diffie-Hellman Key Exchange. The security 
 
 ![Image](ott.gif)
 
+Sender-Receiver
+
+
+![Image](Screenshot.png)
+
