@@ -10,7 +10,7 @@ Sender-Receiver
 
 # How to Run
 
-'''
-python3 sender.py
-'''
+``math
+python sender.py
+```
 
