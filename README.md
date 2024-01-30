@@ -8,3 +8,9 @@ Sender-Receiver
 
 ![Image](Screenshot.png)
 
+# How to Run
+
+'''
+python3 sender.py
+'''
+
