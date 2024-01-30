@@ -10,6 +10,5 @@ Sender-Receiver
 
 # How to Run
 ```
-python sender.py
+python3 sender.py
 ```
-
