@@ -9,8 +9,7 @@ Sender-Receiver
 ![Image](Screenshot.png)
 
 # How to Run
-
-``math
+```
 python sender.py
 ```
 
